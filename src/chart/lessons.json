@@ -1,0 +1,466 @@
+{
+    "data": [
+      {
+        "rowClass": "d-flex item-container align-items-center",
+        "list": [
+          {
+            "content": "زبان انگلیسی(پیش)",
+            "containerClass": "px-4 pt-2 pb-3",
+            "unit": 3,
+            "unitClass": "d-inline px-2"
+          },
+          {
+            "content": "انقلاب اسلامی",
+            "containerClass": "py-2 px-5 mx-2",
+            "unit": 2
+          },
+          {
+            "content": "مبانی کامپیوتر و برنامه سازی",
+            "containerClass": "py-2 px-4 align-self-baseline",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "آمار و احتمال(پایه)",
+            "containerClass": "py-2 px-4 mx-3",
+            "unit": 3,
+            "unitClass": "pt-1 pb-4"
+          },
+          {
+            "content": "فارسی عمومی",
+            "unit": 3,
+            "unitClass": "pt-1 pb-3"
+          },
+          {
+            "content": "فیزیک 1",
+            "containerClass": "py-2 px-4 mx-4",
+            "unit": 3,
+            "unitClass":"p-2"
+          },
+          {
+            "content": "تربیت بدنی",
+            "containerClass": "py-2 px-4 mx-4",
+            "unit": 1
+          },
+          {
+            "content": "ریاضیات پایه",
+            "unit": 3,
+            "unitClass": "pt-1 px-4"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-inline-block mx-5 px-5 pb-3",
+        "list": [
+          {
+            "content": "تاریخ تحلیلی صدر اسلام",
+            "containerClass":"py-2 px-4 mx-5",
+            "unit": 3,
+            "unitClass": "d-inline px-2"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container align-items-center pb-3",
+        "list": [
+          {
+            "content": "زبان انگلیسی عمومی",
+            "containerClass": "px-4 pt-2 pb-3 ms-4",
+            "unit": 3,
+            "unitClass":"pt-1 pb-2",
+            "relation":{
+              "arrow":[{"top":-13,"right":62}],
+              "line":[{"top":-107,"right":66,"height":98}]}
+          },
+          {
+            "content": "برنامه سازی پیشرفته",
+            "containerClass": "py-2 px-4 mx-3 mt-1",
+            "unit": 2,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "کارگاه کامپیوتر",
+            "containerClass": "py-2 px-4 mx-3 mb-2",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "تفسیر موضوعی قرآن",
+            "secondContent":"(نهج البلاغه)",
+            "containerClass": "py-2 px-4 mx-3",
+            "unit": 3,
+            "unitClass": "pt-2"
+          },
+          {
+            "content": "ریاضیات گسسته",
+            "containerClass":"py-2 px-4 align-self-baseline",
+            "unit": 3,
+            "unitClass": "pt-1 pb-3"
+          },
+          {
+            "content": "مدار منطقی",
+            "containerClass": "py-2 px-4 mx-2 align-self-baseline",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "ریاضی عمومی1",
+            "containerClass": "py-3 px-4",
+            "unit": 1
+          },
+          {
+            "content": "روخوانی قرآن کریم",
+            "containerClass":"py-2 px-4 ms-5",
+            "unit": 1,
+            "unitClass": "pt-1 px-4 ms-3"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container ms-3 py-3",
+        "list": [
+          {
+            "content": "زبان تخصصی",
+            "containerClass": "px-4 pt-2  ms-4 align-self-center",
+            "unit": 3,
+            "unitClass":"pt-2 pb-1 px-4 mx-2",
+            "relation":{
+              "arrow":[{"top":-9,"right":53}],
+              "line":[{"top":-41,"right":58,"height":38}]}
+          },
+          {
+            "content": "تحلیل و طراحی سسیستم ها",
+            "containerClass": "py-2 px-4 mx-3 mt-1",
+            "unit": 2,
+            "unitClass":"pt-2 pb-3"
+          },
+          {
+            "content": "ورزش 1",
+            "containerClass": "py-2 px-4",
+            "unit": 3,
+            "unitClass":"pt-2 px-3"
+          },
+          {
+            "content": "ساختمان داده ها",
+            "containerClass": "py-2 px-4 me-3 ms-5",
+            "unit": 3,
+            "unitClass": "pt-2"
+          },
+          {
+            "content": "دانش خانواده و جمعیت",
+            "containerClass":"py-2 px-4 ",
+            "unit": 3,
+            "unitClass": "pt-1"
+          },
+          {
+            "content": "معادلات دیفرانسیل",
+            "containerClass": "py-2 px-3 ms-4 ",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "ریاضی عمومی2",
+            "containerClass": "py-3 px-4",
+            "unit": 1
+          },
+          {
+            "content": "فیزیک2",
+            "containerClass":"px-4 pt-2 pb-3 align-self-baseline",
+            "unit": 1,
+            "unitClass": "pt-1 px-4"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container align-items-baseline ms-3 py-3",
+        "list": [
+          {
+            "content": "وصیت امام",
+            "containerClass": "px-4 pt-2  pb-3 mx-4 ",
+            "unit": 3,
+            "unitClass":"pt-2 pb-1 px-4 mx-2"
+          },
+          {
+            "content": "سیستم اطلاعات و",
+            "secondContent":"مدیریت",
+            "containerClass": "pt-2 px-4 pb-3 mx-4 mt-1",
+            "unit": 2,
+            "unitClass":"pt-2 pb-1"
+          },
+          {
+            "content": "طراحی الگوریتم ها",
+            "containerClass": "pt-2 px-2 pb-4",
+            "unit": 3,
+            "unitClass":"pt-2 px-3"
+          },
+          {
+            "content": "هوش مصنوعی و سیستم",
+            "secondContent":"خبره",
+
+            "containerClass": "py-2 px-3 ms-5",
+            "unit": 3,
+            "unitClass": "pt-2 pb-1"
+          },
+          {
+            "content": "نظریه زبان ها وماشین ها",
+            "containerClass":"pt-2 px-3 pb-4 ",
+            "unit": 3,
+            "unitClass": "pt-1"
+          },
+          {
+            "content": "معماری کامپیوتر",
+            "containerClass":"pt-2 px-3 ",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "مدار الکتریکی",
+            "containerClass": "pt-2 px-3 mx-5",
+            "unit": 1,
+            "unitClass":"py-2"
+
+          },
+          {
+            "content": "2آز فیزیک",
+            "containerClass":"px-4 pt-2 pb-3 ",
+            "unit": 1,
+            "unitClass": "pt-1 px-4 "
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container align-items-center py-3",
+        "list": [
+          {
+            "content": "روش پژوهش و ارائه",
+            "containerClass": "px-4 pt-2 pb-3 mx-4 me-3 mb-4",
+            "unit": 3,
+            "unitClass":"pt-1",
+            "relation":{
+              "arrow":[{"top":27,"right":119,"rotate":270}],
+              "line":[
+                {"top":20,"right":141,"height":26,"rotate":90},
+                {"top":-175,"right":154,"height":209},
+                {"top":-197,"right":132.9,"height":45,"rotate":90}
+                ]}
+          },
+          {
+            "content": "گرافیک کامپیوتری",
+            "containerClass": "py-2 px-4 mx-5 mb-1 pb-3",
+            "unit": 2,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "اصول طراحی کامپایلر",
+            "containerClass": "pt-2 pb-3 px-3  me-2",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "پایگاه داده",
+            "containerClass": "pt-2 pb-3 px-4 mx-3",
+            "unit": 3,
+            "unitClass": "py-2"
+          },
+          {
+            "content": "آزپایگاه داده",
+            "containerClass":"py-2 px-4 pb-3 mx-3",
+            "unit": 3,
+            "unitClass": "pt-1 pb-3"
+          },
+          {
+            "content": "سیستم عامل",
+            "containerClass": "p-2 px-3 mx-2 pb-4 me-2",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "ریاضیات مهندسی",
+            "containerClass": "pt-2 px-4 ms-4 pb-4",
+            "unit": 1
+          },
+          {
+            "content": "اندیشه اسلامی1",
+            "containerClass":"pt-2 pb-3 px-3 ms-5",
+            "unit": 1,
+            "unitClass": "pt-1 px-4 ms-3"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container align-items-center pb-3 pt-5 ",
+        "list": [
+          {
+            "content": "مهندسی نرم افزار",
+            "containerClass": "px-4 pt-2 pb-3 me-3 mb-4",
+            "unit": 3,
+            "unitClass":"pt-1",
+            "relation":{
+              "arrow":[{"top":-10,"right":51}],
+              "line":[
+                {"top":-46,"right":56,"height":38},
+                {"top":-111,"right":-9,"height":132,"rotate":90},
+                {"top":-246,"right":-75,"height":202},
+                {"top":-197,"right":132.9,"height":45,"rotate":90}
+                ]}
+          },
+          {
+            "content": "طراحی زبان های برنامه",
+            "secondContent":"نویسی",
+            "containerClass": "py-2 px-3  mb-1",
+            "unit": 2,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": "پیاده سازی سیستم پایگاه",
+            "containerClass": "py-2 px-3  mx-4",
+            "unit": 3,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": "شبکه های",
+            "secondContent":"کامپیوتری",
+            "containerClass": "py-2 px-4 ms-3",
+            "unit": 3,
+            "unitClass": "pt-2 px-3"
+          },
+          {
+            "content": "آز سیستم عامل",
+            "containerClass":"py-2 px-4 pb-3 ms-3 me-5",
+            "unit": 3,
+            "unitClass": "pt-1 pb-3"
+          },
+          {
+            "content": "ریزپردازنده و اسمبلی",
+            "containerClass": "p-2 px-3 mx-2 pb-4 me-2",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "آز منطقی و",
+            "secondContent":"معماری",
+            "containerClass": "py-2 px-4 ms-5 ",
+            "unit": 1,
+            "unitClass":"px-3"
+          },
+          {
+            "content": "اندیشه اسلامی2",
+            "containerClass":"pt-2 pb-3 px-3 ms-4",
+            "unit": 1,
+            "unitClass": "pt-1 px-4 ms-3"
+          }
+        ]
+      },
+      {
+        "rowClass": "d-flex item-container align-items-center py-3",
+        "list": [
+          {
+            "content": "آز مهندسی نرم افزار",
+            "containerClass": "px-2 pt-2 pb-3 mx-2 mb-4",
+            "unit": 3,
+            "unitClass":"pt-1"
+          },
+          {
+            "content": "اخلاق اسلامی",
+            "containerClass": "pt-2 px-3 pb-3 ms-4 mb-1",
+            "unit": 2,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": "مبانی داده کاوی",
+            "containerClass": "pt-2 pb-4 px-4  mx-4",
+            "unit": 3,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": "مهندسی اینترنت",
+            "containerClass": "pt-2 pb-4 px-3 ms-3",
+            "unit": 3,
+            "unitClass": "pt-2 px-3"
+          },
+          {
+            "content": "آز شبکه",
+            "containerClass":"py-2 px-4 pb-3 ms-3 ",
+            "unit": 3,
+            "unitClass": "pt-1 pb-3 px-2"
+          },
+          {
+            "content": "آز ریز پردازنده",
+            "containerClass": "p-2 px-3 pb-4",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "طراحی کامپیوتری سیستم های",
+            "secondContent":"دیجیتال",
+            "containerClass": "py-2 px-3 ms-4 ",
+            "unit": 1,
+            "unitClass":"py-2 px-3"
+          },
+          {
+            "content": "سیگنال ها و سیستم ها",
+            "containerClass":"pt-2 pb-3 px-3",
+            "unit": 1,
+            "unitClass": "pt-1 px-4 ms-3"
+          },
+          {
+            "content": "کارگاه برنامه نویسی",
+            "secondContent":"متلب",
+            "containerClass":"pt-2 pb-3 px-3",
+            "unit": 1,
+            "unitClass": "d-inline-block px-2"
+            
+          }
+        ]
+      },{
+        "rowClass": "d-flex item-container align-items-center pt-2 ",
+        "list": [
+          {
+            "content": "مبانی بازیابی اطلاعات و جستجو وب",
+            "containerClass": "px-3 py-2 me-4 ",
+            "unit": 3,
+            "unitClass":"pt-1"
+          },
+          {
+            "content": "تاریخ فرهنگ و تمدن اسلامی",
+            "containerClass": "py-2 px-3  ms-4 me-2",
+            "unit": 2,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": "سیستمهای چندرسانه ای",
+            "containerClass": "py-2 px-3 mx-2 ",
+            "unit": 3,
+            "unitClass":"pt-2"
+          },
+          {
+            "content": " پروژه 3 واحد "   ,
+            "secondContent":"(بعد از 100 واحد)",
+            "containerClass": "py-2 px-5 ",
+           
+            "unitClass": "pt-2 px-3"
+          },
+          {
+            "content": "کارآموزی (بعد"   ,
+            "secondContent":"(از 100 واحد",
+            "containerClass": "py-2 px-4 ",
+            "unitClass": "pt-2 px-3"
+          },
+          {
+            "content": "مباحث ویژه 1",
+            "containerClass": "pt-2 px-5 ",
+            "unit": 3,
+            "unitClass":"py-2"
+          },
+          {
+            "content": "آمار و احتمال مهندسی",
+            "containerClass": "p-2 px-3 ms-5",
+            "unit": 3,
+            "unitClass":"pt-2"
+          }
+          
+        ]
+      }
+    ],
+    "SID": 96005264
+  }
