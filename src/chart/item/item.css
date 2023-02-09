@@ -1,0 +1,8 @@
+.arrow {
+  border: 0.4vw solid transparent;
+  border-top: 0.5vw solid currentColor;
+}
+.line {
+  background-color: currentColor;
+  width: 0.1vw;
+}
